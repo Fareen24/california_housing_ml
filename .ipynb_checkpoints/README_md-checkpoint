@@ -38,10 +38,7 @@ The target variable is `MedianHouseValue`, representing the median house value i
    - Split the data into training and testing sets.
    - Train a linear regression model to predict `MedianHouseValue`.
    - Evaluate the model using metrics such as Mean Squared Error (MSE) and R-squared score.
-5. **Logistic Regression (Binary Classification):**
-   - Convert the target variable into a binary outcome based on the median value.
-   - Train a logistic regression model to classify whether a house’s value is above or below the median.
-   - Evaluate the model using accuracy, confusion matrix, and other relevant metrics.
+
 
 ## Tools and Libraries
 
